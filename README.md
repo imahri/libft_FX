@@ -43,11 +43,13 @@
 
 • [`ft_memcmp`](https://github.com/imahri/libft_FX/blob/main/ft_memcmp.c "ft_memcmp") - compare byte string.
 
-• [`ft_strnstr`](https://github.com/imahri/libft_FX/blob/main/ft_strnstr.c "ft_strnstr") - locate a substring in a string (size-bounded).
+• [`ft_strnstr`](https://github.com/imahri/libft_FX/blob/main/ft_strnstr.c "ft_strnstr") - locate a substring in a string (size bounded).
 
 • [`ft_atoi`](https://github.com/imahri/libft_FX/blob/main/ft_atoi.c "ft_atoi") - convert ASCII string to integer.
 
 ##  Part 2 - Additional functions ##
+
+• [`ft_substr`](https://github.com/imahri/libft_FX/blob/main/ft_substr.c "ft_substr") - extract substring from string.
 
 
 
