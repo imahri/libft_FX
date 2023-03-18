@@ -3,7 +3,7 @@
 
 • [`ft_isalpha`](https://github.com/imahri/libft_FX/blob/main/ft_isalpha.c "ft_isalpha") - alphabetic character test.
 
-• `ft_isdigit` - decimal-digit character test.
+• [`ft_isdigit`](https://github.com/imahri/libft_FX/blob/main/ft_isdigit.c "ft_isdigit") - decimal-digit character test.
 
 • `ft_isalnum` - alphanumeric character test.
 
