@@ -69,9 +69,27 @@
 
 • [`ft_putendl_fd`](https://github.com/imahri/libft_FX/blob/main/ft_putendl_fd.c "ft_putendl_fd")  - output string to given file followed by a newline.
 
-• [`ft_putnbr_fd`](https://github.com/imahri/libft_FX/blob/main/ft_putnbr_fd.c "ft_putnbr_fd") - Apply the full function pointer f to parameter s.
+• [`ft_putnbr_fd`](https://github.com/imahri/libft_FX/blob/main/ft_putnbr_fd.c "ft_putnbr_fd") - output integer to stdout.
 
+## Bonus part ##
 
+• [`ft_lstnew`](https://github.com/imahri/libft_FX/blob/main/ft_lstnew.c "ft_lstnew") - output integer to stdout.
+
+• [`ft_lstadd_front`](https://github.com/imahri/libft_FX/blob/main/ft_lstadd_front.c "ft_lstadd_front") - output integer to stdout.
+
+• [`ft_lstsize`](https://github.com/imahri/libft_FX/blob/main/ft_lstsize.c "ft_lstsize") - output integer to stdout.
+
+• [`ft_lstlast`](https://github.com/imahri/libft_FX/blob/main/ft_lstlast.c "ft_lstlast") - output integer to stdout.
+
+• [`ft_lstadd_back`](https://github.com/imahri/libft_FX/blob/main/ft_lstadd_back.c "ft_lstadd_back") - output integer to stdout.
+
+• [`ft_lstdelone`](https://github.com/imahri/libft_FX/blob/main/ft_lstdelone.c "ft_lstdelone") - output integer to stdout.
+
+• [`ft_lstclear`](https://github.com/imahri/libft_FX/blob/main/ft_lstclear.c "ft_lstclear") - output integer to stdout.
+
+• [`ft_lstiter`](https://github.com/imahri/libft_FX/blob/main/ft_lstiter.c "ft_lstiter") - output integer to stdout.
+
+• [`ft_lstmap`](https://github.com/imahri/libft_FX/blob/main/ft_lstmap.c "ft_lstmap") - output integer to stdout.
 
 # MAKE #
 
