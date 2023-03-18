@@ -1,7 +1,7 @@
 # Libft #
 ## Part 1 - Libc functions ##
 
-• `[ft_isalpha](https://github.com/imahri/libft_FX/blob/main/ft_isalpha.c "ft_isalpha")` - alphabetic character test.
+• `ft_isalpha` - alphabetic character test [ft_isalpha](https://github.com/imahri/libft_FX/blob/main/ft_isalpha.c "ft_isalpha").
 
 • `ft_isdigit` - decimal-digit character test.
 
