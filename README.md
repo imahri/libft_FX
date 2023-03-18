@@ -73,23 +73,23 @@
 
 ## Bonus part ##
 
-• [`ft_lstnew`](https://github.com/imahri/libft_FX/blob/main/ft_lstnew.c "ft_lstnew") - output integer to stdout.
+• [`ft_lstnew`](https://github.com/imahri/libft_FX/blob/main/ft_lstnew.c "ft_lstnew") - create new list.
 
-• [`ft_lstadd_front`](https://github.com/imahri/libft_FX/blob/main/ft_lstadd_front.c "ft_lstadd_front") - output integer to stdout.
+• [`ft_lstadd_front`](https://github.com/imahri/libft_FX/blob/main/ft_lstadd_front.c "ft_lstadd_front") - add new element at beginning of list.
 
-• [`ft_lstsize`](https://github.com/imahri/libft_FX/blob/main/ft_lstsize.c "ft_lstsize") - output integer to stdout.
+• [`ft_lstsize`](https://github.com/imahri/libft_FX/blob/main/ft_lstsize.c "ft_lstsize") - count elements of a list.
 
-• [`ft_lstlast`](https://github.com/imahri/libft_FX/blob/main/ft_lstlast.c "ft_lstlast") - output integer to stdout.
+• [`ft_lstlast`](https://github.com/imahri/libft_FX/blob/main/ft_lstlast.c "ft_lstlast") - find last element of list.
 
-• [`ft_lstadd_back`](https://github.com/imahri/libft_FX/blob/main/ft_lstadd_back.c "ft_lstadd_back") - output integer to stdout.
+• [`ft_lstadd_back`](https://github.com/imahri/libft_FX/blob/main/ft_lstadd_back.c "ft_lstadd_back") - add new element at end of list.
 
-• [`ft_lstdelone`](https://github.com/imahri/libft_FX/blob/main/ft_lstdelone.c "ft_lstdelone") - output integer to stdout.
+• [`ft_lstdelone`](https://github.com/imahri/libft_FX/blob/main/ft_lstdelone.c "ft_lstdelone") - delete element from list.
 
-• [`ft_lstclear`](https://github.com/imahri/libft_FX/blob/main/ft_lstclear.c "ft_lstclear") - output integer to stdout.
+• [`ft_lstclear`](https://github.com/imahri/libft_FX/blob/main/ft_lstclear.c "ft_lstclear") - delete sequence of elements of list from a starting point.
 
-• [`ft_lstiter`](https://github.com/imahri/libft_FX/blob/main/ft_lstiter.c "ft_lstiter") - output integer to stdout.
+• [`ft_lstiter`](https://github.com/imahri/libft_FX/blob/main/ft_lstiter.c "ft_lstiter") - apply function to content of all list's elements.
 
-• [`ft_lstmap`](https://github.com/imahri/libft_FX/blob/main/ft_lstmap.c "ft_lstmap") - output integer to stdout.
+• [`ft_lstmap`](https://github.com/imahri/libft_FX/blob/main/ft_lstmap.c "ft_lstmap") - apply function to content of all list's elements into new list.
 
 # MAKE #
 
