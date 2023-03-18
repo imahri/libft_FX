@@ -1,9 +1,5 @@
 # Libft #
 
-`make` to compile mandatory function
-
-`make bonus` to compile the bonus function
-
 • `ft_isalpha` - alphabetic character test.
 
 • `ft_isdigit` - decimal-digit character test.
@@ -46,3 +42,8 @@
 
 • `ft_atoi`
 
+# MAKE #
+
+`make` to compile mandatory function
+
+`make bonus` to compile the bonus function
