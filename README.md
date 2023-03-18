@@ -7,13 +7,13 @@
 
 • [`ft_isalnum`](https://github.com/imahri/libft_FX/blob/main/ft_isalnum.c "ft_isalnum") - alphanumeric character test.
 
-• `ft_isascii` - test for ASCII character.
+• [`ft_isascii`](https://github.com/imahri/libft_FX/blob/main/ft_isascii.c "ft_isascii") - test for ASCII character.
 
-• `ft_isprint` - printing character test (space character inclusive).
+• [`ft_isascii`](https://github.com/imahri/libft_FX/blob/main/ft_isprint.c "ft_isprint") - printing character test (space character inclusive).
 
-• `ft_strlen` - give you the length of string.
+• [`ft_strlen`](https://github.com/imahri/libft_FX/blob/main/ft_strlen.c "ft_strlen") - give you the length of string.
 
-• `ft_memset` - is used to fill a block of memory with a particular value.
+• [`ft_memset`](https://github.com/imahri/libft_FX/blob/main/ft_memset.c "ft_memset") - is used to fill a block of memory with a particular value.
 
 • `ft_bzero` - is used to fill a block of memory with a '\0'.
 
