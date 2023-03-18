@@ -1,5 +1,7 @@
 # Libft #
-![image](https://github.com/imahri/libft_FX/blob/main/pic_lib.png)
+
+<a href="https://cdn.intra.42.fr/pdf/pdf/70131/en.subject.pdf"><img src="https://github.com/imahri/libft_FX/blob/main/pic_lib.png"/></a>
+
 
 ## Part 1 - Libc functions ##
 
