@@ -90,12 +90,6 @@
 
 • [`ft_lstmap`](https://github.com/imahri/libft_FX/blob/main/ft_lstmap.c "ft_lstmap") - apply function to content of all list's elements into new list.
 
-<p align="center">
-  <a href="https://github.com/imahri/libft_FX">
-   <img src="https://github.com/imahri/libft_FX/blob/main/pic_val.png"/>
-  </a>
-</p>
-
 # MAKE #
 
 `make` to compile mandatory function
