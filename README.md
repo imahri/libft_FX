@@ -2,7 +2,6 @@
 
 <a href="https://cdn.intra.42.fr/pdf/pdf/70131/en.subject.pdf"><img src="https://github.com/imahri/libft_FX/blob/main/pic_lib.png"/></a>
 
-
 ## Part 1 - Libc functions ##
 
 • [`ft_isalpha`](https://github.com/imahri/libft_FX/blob/main/ft_isalpha.c "ft_isalpha") - alphabetic character test.
@@ -90,6 +89,8 @@
 • [`ft_lstiter`](https://github.com/imahri/libft_FX/blob/main/ft_lstiter.c "ft_lstiter") - apply function to content of all list's elements.
 
 • [`ft_lstmap`](https://github.com/imahri/libft_FX/blob/main/ft_lstmap.c "ft_lstmap") - apply function to content of all list's elements into new list.
+
+<a href="https://cdn.intra.42.fr/pdf/pdf/70131/en.subject.pdf"><img src="https://github.com/imahri/libft_FX/blob/main/pic_val.png"/></a>
 
 # MAKE #
 
