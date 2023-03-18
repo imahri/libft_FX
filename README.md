@@ -1,4 +1,6 @@
 # Libft #
+![image](https://user-images.githubusercontent.com/115317377/226125865-6d497c9c-d627-4f20-a2cb-06de8b1e938e.png)
+
 ## Part 1 - Libc functions ##
 
 • [`ft_isalpha`](https://github.com/imahri/libft_FX/blob/main/ft_isalpha.c "ft_isalpha") - alphabetic character test.
