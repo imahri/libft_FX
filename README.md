@@ -5,7 +5,7 @@
 
 • [`ft_isdigit`](https://github.com/imahri/libft_FX/blob/main/ft_isdigit.c "ft_isdigit") - decimal-digit character test.
 
-• `ft_isalnum` - alphanumeric character test.
+• [`ft_isalnum`](https://github.com/imahri/libft_FX/blob/main/ft_isalnum.c "ft_isalnum") - alphanumeric character test.
 
 • `ft_isascii` - test for ASCII character.
 
