@@ -5,6 +5,7 @@
 `make bonus` to compile the bonus function
 
 • `isalpha` - alphabetic character test.
+
 • `isdigit`
 • `isalnum`
 • `isascii`
