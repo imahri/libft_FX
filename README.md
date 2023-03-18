@@ -90,7 +90,11 @@
 
 • [`ft_lstmap`](https://github.com/imahri/libft_FX/blob/main/ft_lstmap.c "ft_lstmap") - apply function to content of all list's elements into new list.
 
-<a href="https://cdn.intra.42.fr/pdf/pdf/70131/en.subject.pdf"><img src="https://github.com/imahri/libft_FX/blob/main/pic_val.png"/></a>
+<p align="center">
+  <a href="https://github.com/imahri"> 
+   <img src="https://github.com/imahri/libft_FX/blob/main/pic_val.png"/>
+  </a>
+</p>
 
 # MAKE #
 
