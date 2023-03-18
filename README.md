@@ -43,6 +43,10 @@
 
 • [`ft_atoi`](https://github.com/imahri/libft_FX/blob/main/ft_atoi.c "ft_atoi") - convert ASCII string to integer.
 
+##  Part 2 - Additional functions ##
+
+
+
 # MAKE #
 
 `make` to compile mandatory function
