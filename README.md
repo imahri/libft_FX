@@ -1,4 +1,5 @@
 # Libft #
+## Part 1 - Libc functions ##
 
 • `ft_isalpha` - alphabetic character test.
 
