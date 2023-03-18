@@ -32,15 +32,15 @@
 
 • `ft_strrchr` - locate character in string (last occurrence).
 
-• `ft_strncmp` - 
+• `ft_strncmp` - compare strings (size-bounded).
 
-• `ft_memchr`
+• `ft_memchr` - locate byte in byte string.
 
-• `ft_memcmp`
+• `ft_memcmp` - compare byte string.
 
-• `ft_strnstr`
+• `ft_strnstr` - locate a substring in a string (size-bounded).
 
-• `ft_atoi`
+• `ft_atoi` - convert ASCII string to integer.
 
 # MAKE #
 
