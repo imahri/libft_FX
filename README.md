@@ -1,5 +1,7 @@
 # Libft #
-![image](https://user-images.githubusercontent.com/115317377/226125865-6d497c9c-d627-4f20-a2cb-06de8b1e938e.png)[`png`](https://cdn.intra.42.fr/pdf/pdf/70131/en.subject.pdf "ft_isalpha")
+
+<a href="https://cdn.intra.42.fr/pdf/pdf/70131/en.subject.pdf"><img src="https://github.com/imahri/libft_FX/blob/main/pic_lib.png"/></a>
+
 
 ## Part 1 - Libc functions ##
 
@@ -41,11 +43,33 @@
 
 • [`ft_memcmp`](https://github.com/imahri/libft_FX/blob/main/ft_memcmp.c "ft_memcmp") - compare byte string.
 
-• [`ft_strnstr`](https://github.com/imahri/libft_FX/blob/main/ft_strnstr.c "ft_strnstr") - locate a substring in a string (size-bounded).
+• [`ft_strnstr`](https://github.com/imahri/libft_FX/blob/main/ft_strnstr.c "ft_strnstr") - locate a substring in a string (size bounded).
 
 • [`ft_atoi`](https://github.com/imahri/libft_FX/blob/main/ft_atoi.c "ft_atoi") - convert ASCII string to integer.
 
 ##  Part 2 - Additional functions ##
+
+• [`ft_substr`](https://github.com/imahri/libft_FX/blob/main/ft_substr.c "ft_substr") - extract substring from string.
+
+• [`ft_strjoin`](https://github.com/imahri/libft_FX/blob/main/ft_strjoin.c "ft_strjoin") - concatenate two strings into a new string (with malloc).
+
+• [`ft_strtrim`](https://github.com/imahri/libft_FX/blob/main/ft_strtrim.c "ft_strtrim") - trim beginning and end of string with the specified characters.
+
+• [`ft_split`](https://github.com/imahri/libft_FX/blob/main/ft_split.c "ft_split") - split string, with specified character as delimiter, into an array of strings.
+
+• [`ft_itoa`](https://github.com/imahri/libft_FX/blob/main/ft_itoa.c "ft_itoa") - convert integer to ASCII string.
+
+• [`ft_strmapi`](https://github.com/imahri/libft_FX/blob/main/ft_strmapi.c "ft_strmapi") - create new string from modifying string with specified function.
+
+• [`ft_striteri`](https://github.com/imahri/libft_FX/blob/main/ft_striteri.c "ft_striteri") - Apply the full function pointer f to parameter s.
+
+• [`ft_putchar_fd`](https://github.com/imahri/libft_FX/blob/main/ft_putchar_fd.c "ft_putchar_fd") - output a character to given file.
+
+• [`ft_putstr_fd`](https://github.com/imahri/libft_FX/blob/main/ft_putstr_fd.c "ft_putstr_fd")  - output string to given file.
+
+• [`ft_putendl_fd`](https://github.com/imahri/libft_FX/blob/main/ft_putendl_fd.c "ft_putendl_fd")  - output string to given file followed by a newline.
+
+• [`ft_putnbr_fd`](https://github.com/imahri/libft_FX/blob/main/ft_putnbr_fd.c "ft_putnbr_fd") - Apply the full function pointer f to parameter s.
 
 
 
