@@ -1,5 +1,5 @@
 # Libft #
-![image](https://user-images.githubusercontent.com/115317377/226125865-6d497c9c-d627-4f20-a2cb-06de8b1e938e.png)[](https://cdn.intra.42.fr/pdf/pdf/70131/en.subject.pdf "ft_isalpha")
+![image](https://user-images.githubusercontent.com/115317377/226125865-6d497c9c-d627-4f20-a2cb-06de8b1e938e.png)[`png`](https://cdn.intra.42.fr/pdf/pdf/70131/en.subject.pdf "ft_isalpha")
 
 ## Part 1 - Libc functions ##
 
